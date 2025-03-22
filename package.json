@@ -1,5 +1,5 @@
 {
-  "name": "chat-app",
+  "name": "link-up",
   "private": true,
   "scripts": {
     "build": "turbo run build",
